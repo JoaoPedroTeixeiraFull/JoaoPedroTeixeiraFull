@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @JoaoPedroTeixeiraFull
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-JoaoPedroTeixeiraFull/JoaoPedroTeixeiraFull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👋 Hi, I’m João Pedro Teixeira
+* 💻 I build web projects using JavaScript, HTML, and CSS
+* 🚀 I’m focused on creating practical and functional applications
+* 🌱 I’m currently improving my skills in full-stack JavaScript development
+* 📂 Here you’ll find my projects, including login systems and other web applications
+* 🤝 I’m open to collaborating on web development projects
+* 📫 How to reach me: (your email or LinkedIn here)
+* ⚡ Fun fact: I’m continuously building projects to improve my coding skills
